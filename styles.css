@@ -1,0 +1,45 @@
+body{
+    background-color: lightsteelblue;
+    text-align: center;
+    font-family: calibri;
+
+}
+h1{
+    color: white;
+    
+}
+h2{
+    color: maroon;
+}
+
+.typef {
+    font-family: monospace;
+    background-color:gray;
+
+}
+table {
+  
+    margin: 10px auto;
+    width: 80%;
+  }
+  
+  thead th {
+    background: teal;
+    color: white;
+    font-family: 'Lato', sans-serif;
+    font-size: 16px;
+    font-weight: 100;
+    text-transform: uppercase;
+  }
+  
+  tr {
+    background: honeydew;
+  
+  }
+  
+  th, td {
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;  
+    text-align: center;
+    font-size: 18px
+  }
